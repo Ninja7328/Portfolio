@@ -12,7 +12,7 @@ Welcome to the repository for "Anurag's Portfolio," a portfolio website showcasi
 
 ## Live Demo
 
-Explore the live site: [Anurag's Tech Journey](https://ninja7328.github.io/Anurag-Portfolio/)
+Explore the live site: [Anurag's Tech Journey](https://ninja7328.github.io/Portfolio/)
 
 ## Features
 
